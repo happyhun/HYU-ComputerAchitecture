@@ -8,8 +8,8 @@
 - VS Code
 
 ## 목차
-1. [Assembler and Simulator]
-2. [Pipelined Simulator]
+1. [Assembler and Simulator](https://github.com/happyhun/HYU-ComputerAchitecture/tree/main/project1)
+2. [Pipelined Simulator](https://github.com/happyhun/HYU-ComputerAchitecture/tree/main/project2)
 
 ## 고민
 1. 프로젝트1 명세를 처음 보고 눈물이 났다. C문법도 다 까먹었는데 24쪽짜리 영어 명세가 날라왔기 때문이다.

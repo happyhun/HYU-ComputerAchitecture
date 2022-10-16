@@ -11,7 +11,7 @@
 1. [Assembler and Simulator](https://github.com/happyhun/HYU-ComputerAchitecture/tree/main/project1)
 2. [Pipelined Simulator](https://github.com/happyhun/HYU-ComputerAchitecture/tree/main/project2)
 
-## 고민
+## 이슈
 1. 프로젝트1 명세를 처음 보고 눈물이 났다. C문법도 다 까먹었는데 24쪽짜리 영어 명세가 날라왔기 때문이다.
 2. 명세만 일주일동안 읽어본 것 같다. 그러니까 갑자기 감이 잡히기 시작했다.
 3. 처음에는 Machine Code를 문자열로 슬라이싱해야하나 생각했지만, C의 비트 연산자를 이용하면 간단히 해결되는 문제였다.
